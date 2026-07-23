@@ -7,6 +7,7 @@ require (
 	github.com/go-playground/validator/v10 v10.30.3
 	github.com/jackc/pgx/v5 v5.10.0
 	github.com/redis/go-redis/v9 v9.21.0
+	github.com/resend/resend-go/v3 v3.11.0
 	github.com/spf13/viper v1.21.0
 )
 
